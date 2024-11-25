@@ -20,7 +20,7 @@ This firmware is designed to transform the ESP32 into a low-power, BLE-based tra
 
 1. Clone this repository to your local machine:
     \`\`\`bash
-    git clone https://github.com/your-repository-url.git
+    git clone https://github.com/Child-Safety-Tracker/firmware
     \`\`\`
 2. Install Arduino IDE or PlatformIO if not already installed.
 3. Install the required libraries for the ESP32:
