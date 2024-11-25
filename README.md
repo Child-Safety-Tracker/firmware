@@ -1,8 +1,6 @@
 
 # **ESP32 Firmware for Find My Device Tracker**
-
 This repository contains the firmware code for the ESP32 module used in the Find My Device Tracker project. The firmware enables the ESP32 to communicate with Apple's Find My network using Bluetooth Low Energy (BLE) signals.
-
 ## **Project Overview**
 
 This firmware is designed to transform the ESP32 into a low-power, BLE-based tracking device compatible with the Find My network. By broadcasting BLE signals, the ESP32 can be detected by nearby devices that relay its location to the Find My app.
